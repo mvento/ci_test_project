@@ -1,0 +1,4 @@
+Flask >= 0.12
+numpy>=1.11.2
+pandas>=0.18.0
+Flask-Testing>=0.7.1
