@@ -20,6 +20,3 @@ class TestRandomOperations(TestCase):
         result = random_operations.sum_columns(data)
 
         self.assertTrue(result.equals(result_expected))
-
-    def test_error(self):
-        self.assertTrue(False)
